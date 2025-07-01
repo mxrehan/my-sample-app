@@ -1,0 +1,9 @@
+cat <<EOF > .gitignore
+__pycache__/
+*.pyc
+EOF
+cat <<EOF > .gitignore
+__pycache__/
+*.pyc
+EOF
+
